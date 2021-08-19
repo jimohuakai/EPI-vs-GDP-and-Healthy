@@ -1,2 +1,2 @@
 # EPI-vs-GDP-and-Healthy
-Example for EPI vs GDP in all regions of countries worldwide, as well as corelation coeffiecient extraction
+Explore the regression among envoirormental factors, GDP in with major WHO health data
